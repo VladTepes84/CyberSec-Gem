@@ -1,5 +1,7 @@
 # CyberSec-Gem
 AI Cybersecurity Analyst – Blue &amp; Red Team Assistant for Gemini/ChatGPT
+![Preview](screenshotspreview.png)
+
 # 🛡️ Cyber-Security – AI Analyst for Red & Blue Teams
 
 > A professional prompt for Gemini / ChatGPT designed to emulate a world-class cybersecurity analyst. Ideal for threat hunting, code auditing, IOC analysis, incident response, and real-time operational support.
