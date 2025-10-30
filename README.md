@@ -3,7 +3,7 @@
 ![Platform: Gemini / ChatGPT](https://img.shields.io/badge/platform-Gemini%20%7C%20ChatGPT-blueviolet)
 
 # CyberSec-GenIA
-AI Cybersecurity Analyst – Blue &amp; Red Team Assistant for Gemini/ChatGPT
+AI Cybersecurity Analyst – Blue &amp; Red Team Assistant for Multi IA
 ![Preview](screenshotspreview.png)
 
 # 🛡️ Cyber-Security – AI Analyst for Red & Blue Teams
